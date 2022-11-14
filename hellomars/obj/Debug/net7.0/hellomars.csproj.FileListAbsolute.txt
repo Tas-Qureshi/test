@@ -1,0 +1,15 @@
+C:\salt\precourse\test\hellomars\bin\Debug\net7.0\hellomars.exe
+C:\salt\precourse\test\hellomars\bin\Debug\net7.0\hellomars.deps.json
+C:\salt\precourse\test\hellomars\bin\Debug\net7.0\hellomars.runtimeconfig.json
+C:\salt\precourse\test\hellomars\bin\Debug\net7.0\hellomars.dll
+C:\salt\precourse\test\hellomars\bin\Debug\net7.0\hellomars.pdb
+C:\salt\precourse\test\hellomars\obj\Debug\net7.0\hellomars.csproj.AssemblyReference.cache
+C:\salt\precourse\test\hellomars\obj\Debug\net7.0\hellomars.GeneratedMSBuildEditorConfig.editorconfig
+C:\salt\precourse\test\hellomars\obj\Debug\net7.0\hellomars.AssemblyInfoInputs.cache
+C:\salt\precourse\test\hellomars\obj\Debug\net7.0\hellomars.AssemblyInfo.cs
+C:\salt\precourse\test\hellomars\obj\Debug\net7.0\hellomars.csproj.CoreCompileInputs.cache
+C:\salt\precourse\test\hellomars\obj\Debug\net7.0\hellomars.dll
+C:\salt\precourse\test\hellomars\obj\Debug\net7.0\refint\hellomars.dll
+C:\salt\precourse\test\hellomars\obj\Debug\net7.0\hellomars.pdb
+C:\salt\precourse\test\hellomars\obj\Debug\net7.0\hellomars.genruntimeconfig.cache
+C:\salt\precourse\test\hellomars\obj\Debug\net7.0\ref\hellomars.dll
