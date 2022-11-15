@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\salt\\precourse\\test\\hellomars\\hellomars.csproj": {}
+    "C:\\salt\\precourse\\test2\\test\\hellomars\\hellomars.csproj": {}
   },
   "projects": {
-    "C:\\salt\\precourse\\test\\hellomars\\hellomars.csproj": {
+    "C:\\salt\\precourse\\test2\\test\\hellomars\\hellomars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\salt\\precourse\\test\\hellomars\\hellomars.csproj",
+        "projectUniqueName": "C:\\salt\\precourse\\test2\\test\\hellomars\\hellomars.csproj",
         "projectName": "hellomars",
-        "projectPath": "C:\\salt\\precourse\\test\\hellomars\\hellomars.csproj",
+        "projectPath": "C:\\salt\\precourse\\test2\\test\\hellomars\\hellomars.csproj",
         "packagesPath": "C:\\Users\\Dator\\.nuget\\packages\\",
-        "outputPath": "C:\\salt\\precourse\\test\\hellomars\\obj\\",
+        "outputPath": "C:\\salt\\precourse\\test2\\test\\hellomars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dator\\AppData\\Roaming\\NuGet\\NuGet.Config",

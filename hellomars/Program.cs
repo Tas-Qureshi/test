@@ -12,10 +12,18 @@ namespace snallWeeks_lab_firstDotNetApp
     {
       Console.Write("What is your name? ");
       var name = Console.ReadLine();
-
-      var greeting = greet(name);
-
-      Console.WriteLine(greeting);
+      
+      string greeting = greet(name);
+      //------------------------------------------------
+      DateTime startDate = new DateTime(2023,01,09,0,0,0);
+      //-------------------------------------------------
+      DateTime todaysDate = DateTime.Now;
+      TimeSpan value = startDate.Subtract(todaysDate);
+      
+      //-------------------------------------------------
+      Console.WriteLine("\n" + greeting);
+      Console.WriteLine("When does that course start? " + startDate.ToString("yyyy/MM/dd"));
+      Console.WriteLine("Today it is {0} days left until the course starts",Math.Round(value.TotalDays));
     }
   }
 }
